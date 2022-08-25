@@ -1,5 +1,9 @@
 01 line Boy 
 02 line Good 
+<<<<<<< HEAD
 03 line Every
+=======
+03 line Favor
+>>>>>>> main
 04 line Deserves 
-05 line Favor 
+05 line Boy 
